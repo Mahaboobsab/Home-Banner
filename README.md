@@ -6,7 +6,7 @@ This class shows how to create banner in objective
 //  AlEnna
 //
 //  Created by Mehboob on 10/23/18.
-//  Copyright © 2018 360Nautica. All rights reserved.
+
 //
 
 #import "HomeViewController.h"
